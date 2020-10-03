@@ -1,2 +1,2 @@
-# rynvei
-Rynvei Application Launcher / Desktop Environment
+# rinvey
+Rinvey Application Launcher / Desktop Environment
