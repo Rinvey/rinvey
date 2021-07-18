@@ -1,2 +1,2 @@
-# rinvey
-Rinvey Application Launcher / Desktop Environment
+# Dive
+Dive Application Launcher / Desktop Environment
